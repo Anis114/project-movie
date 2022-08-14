@@ -1,0 +1,28 @@
+.flip-card-inner{
+  display: flex;
+  flex-direction: column;
+}
+.movieApp{
+  display: flex;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px
+}
+.searchInput{
+  width: 900px;
+}
+.movieCard{
+  border: 1px solid black;
+  margin:20px;
+}
+.movieRating{
+ text-align: center;
+}
+.img{
+  width:200px;
+  height:200px;
+  padding:10px 0px;
+  border-bottom:1px solid grey;
+ }
